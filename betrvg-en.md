@@ -1,11 +1,15 @@
 Original text found at the [website of the Federal Ministry of Justice](https://www.gesetze-im-internet.de/englisch_betrvg/englisch_betrvg.html). That is the version of the text which bears legal merit. The copy here is provided only for convenience and possibly overview changes in law via Git version controlling. All the changes made are done for enhanced readibility and accessibility. The text content of this act mustn't be changed.
 
 ## Original Disclaimer
-| DE | EN |
-| -- | -- |
-| Übersetzung durch den Sprachendienst des Bundesministeriums für Arbeit und Soziales. | Translation provided by the Language Service of the Federal Ministry of Labour and Social Affairs. |
-| Stand: Die Übersetzung berücksichtigt die Änderung(en) des Gesetzes durch Artikel 6d des Gesetzes vom 16. September 2022 (BGBl. S. 1454) | Version information: The translation includes the amendment(s) to the Act by Article 6d of the Act of 16 September 2022 (Federal Law Gazette p. 1454) |
-| Zur Nutzung dieser Übersetzung lesen Sie bitte den Hinweis unter "Translations". | For conditions governing use of this translation, please see the information provided under "Translations". |
+
+* Übersetzung durch den Sprachendienst des Bundesministeriums für Arbeit und Soziales.
+* Translation provided by the Language Service of the Federal Ministry of Labour and Social Affairs.
+
+* Stand: Die Übersetzung berücksichtigt die Änderung(en) des Gesetzes durch Artikel 6d des Gesetzes vom 16. September 2022 (BGBl. S. 1454)
+* Version information: The translation includes the amendment(s) to the Act by Article 6d of the Act of 16 September 2022 (Federal Law Gazette p. 1454)
+
+* Zur Nutzung dieser Übersetzung lesen Sie bitte den Hinweis unter "Translations".
+* For conditions governing use of this translation, please see the information provided under "Translations".
 
 - [Works Constitution Act (Betriebsverfassungsgesetz - BetrVG)](#works-constitution-act-betriebsverfassungsgesetz---betrvg)
 - [Part One: General provisions](#part-one-general-provisions)
