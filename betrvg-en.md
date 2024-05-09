@@ -430,6 +430,7 @@ If the number of eligible employees in an establishment is insufficient, the num
 
 <span id="15"></span>
 ### Section 15: Representation of employment categories and of male and female employees [^2]
+---
 
 <span id="15-1"></span>
 (1) The works council is to be composed as far as possible of employees of the various organisation units and the different employment categories of the employees employed in the establishment.
